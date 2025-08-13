@@ -17,7 +17,7 @@ Education
   Huazhong University of Science and Technology (HUST), School of Computer Science and Technology  
   *2021 – 2023*
 
-- **B.S. of Science in Computer Science and Technology**  
+- **B.S. in Computer Science and Technology**  
   Huazhong University of Science and Technology (HUST), School of Computer Science and Technology  
   *2017 – 2021*
 
