@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022
+date: 2023-01-13
 venue: 'Conference 1'
 paperurl: 'http://academicpages.github.io/files/2022-ICPP-PSR.pdf'
 bibtexurl: 'http://academicpages.github.io/files/wang2022exploiting.bib'
