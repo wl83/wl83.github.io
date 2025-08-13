@@ -3,8 +3,9 @@ title: "Exploiting Parallelism of Disk Failure Recovery via Partial Stripe Repai
 collection: publications
 category: conferences
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-01-13
-venue: 'Conference 1'
+date: 2022-08-29
+venue: '51st International Conference on Parallel Processing (ICPP 2022)'
+
 paperurl: 'http://wl83.github.io/files/2022-ICPP-PSR.pdf'
 bibtexurl: 'http://wl83.github.io/files/wang2022exploiting.bib'
 
