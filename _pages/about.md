@@ -13,11 +13,11 @@ Education
   Huazhong University of Science and Technology (HUST), School of Computer Science and Technology  
   *2023 – Present*
 
-- **Master in Computer Architecture**  
+- **M.S. in Computer Architecture**  
   Huazhong University of Science and Technology (HUST), School of Computer Science and Technology  
   *2021 – 2023*
 
-- **Bachelor of Science in Computer Science and Technology**  
+- **B.S. of Science in Computer Science and Technology**  
   Huazhong University of Science and Technology (HUST), School of Computer Science and Technology  
   *2017 – 2021*
 
