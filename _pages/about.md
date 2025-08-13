@@ -9,20 +9,17 @@ redirect_from:
 
 Education
 ======
-**2017 - 2021**
-Huazhong University of Science and Technology
-College of Computer Science and Technology
-Bachelor of Engineering in Computer Science and Technology
+- **Ph.D. in Computer Architecture** *(Transferred from Master's program)*  
+  Huazhong University of Science and Technology (HUST), School of Computer Science and Technology  
+  *2023 – Present*
 
-**2021 - 2023**
-Huazhong University of Science and Technology
-College of Computer Science and Technology
-Master of Engineering in Computer Systems Architecture
+- **Master in Computer Architecture**  
+  Huazhong University of Science and Technology (HUST), School of Computer Science and Technology  
+  *2021 – 2023*
 
-**2023 - Present**
-Huazhong University of Science and Technology
-College of Computer Science and Technology
-PhD Candidate in Computer Systems Architecture
+- **Bachelor of Science in Computer Science and Technology**  
+  Huazhong University of Science and Technology (HUST), School of Computer Science and Technology  
+  *2017 – 2021*
 
 Reseach Area
 ======
