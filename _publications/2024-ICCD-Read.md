@@ -2,7 +2,7 @@
 title: "Read-Optimized Persistent Hash Index for Query Acceleration through Fingerprint Filtering and Lock-Free Prefetching"
 collection: publications
 category: conferences
-excerpt: 'Renzhi Xiao, Dan Feng, Yuchong Hu, Hong Jiang, **Lin Wang**, Yucheng Zhang'
+excerpt: 'Renzhi Xiao, Dan Feng, Yuchong Hu, Hong Jiang, **<u>Lin Wang</u>**, Yucheng Zhang'
 date: 2024-11-18
 venue: '42nd International Conference on Computer Design (ICCD 2024)'
 
