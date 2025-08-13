@@ -46,3 +46,7 @@ Skills
 - Programming Languages: C/C++, Python, Golang
 - Frameworks & Tools: Linux, PyTorch, Ceph, Triton
 - Interests: Badminton, Basketball, Table Tennis, Swimming
+
+Selected Publications
+======
+- [1] **<u>Lin Wang</u>**, Yuchong Hu, Shilong Mao, Mingqi Li, Ziling Duan, Yue Huang, Leihua Qin, Dan Feng, Zehui Chen, Ruliang Dong. "Revisiting Fragmentation for Deduplication in Clustered Primary Storage Systems". International Conference on Cluster Computing, 2025, Edinburgh, UK.
