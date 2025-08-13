@@ -23,7 +23,11 @@ Education
 
 Reseach Area
 ======
-Erasure Coding, Coded Comptation, System for AI, Distributed Storage, Data Deduplication
+- Erasure Coding
+- Coded Comptation
+- System for AI
+- Distributed Storage
+- Data Deduplication
 
 Honors and Awards
 ======
@@ -39,6 +43,6 @@ Honors and Awards
 
 Skills
 ======
-
-
-
+- Programming Languages: C/C++, Python, Golang
+- Frameworks & Tools: Linux, PyTorch, Ceph, Triton
+- Interests: Badminton, Basketball, Table Tennis, Swimming
