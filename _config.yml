@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Lin Wang / Home Page"
+title                    : "Lin Wang"
 title_separator          : "-"
 name                     : &name "Lin Wang"
 
@@ -26,11 +26,12 @@ author:
   avatar           : "profile.jpeg"
   name             : "Lin Wang"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #
+  location         : "Wuhan, China"
+  employer         : "Huazhong University of Science and Technology"
+
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wanglin2021@hust.edu.cn" 
 
   # Academic websites
   academia         : # URL
