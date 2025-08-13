@@ -29,6 +29,12 @@ Reseach Area
 - Distributed Storage
 - Data Deduplication
 
+Selected Publications
+======
+- [1] **<u>Lin Wang</u>**, Yuchong Hu, Shilong Mao, Mingqi Li, Ziling Duan, Yue Huang, Leihua Qin, Dan Feng, Zehui Chen, Ruliang Dong. "Revisiting Fragmentation for Deduplication in Clustered Primary Storage Systems". International Conference on Cluster Computing (CLUSTER), 2025, Edinburgh, UK.
+- [2] **<u>Lin Wang</u>**, Yuchong Hu, Yuxue Liu, Renzhi Xiao, Dan Feng. "Asymmetric Coded Distributed Computation on Resilient Prediction Serving Systems", European Conference on Parallel Compuing (Euro-Par), 2024, Madrid, Spain.
+- [3] **<u>Lin Wang</u>**, Yuchong Hu, Qian Du, Dan Feng, Ray Wu, Ingo He, Kevin Zhang. "Exploiting Parallelism of Disk Failure Recovery via Partial Stripe Repair for an Erasure-Coded High-Density Storage Server", International Conference on Parallel Processing (ICPP), 2022, Online.
+
 Honors and Awards
 ======
 - National Scholarship (国家奖学金), *2019*
@@ -46,9 +52,3 @@ Skills
 - Programming Languages: C/C++, Python, Golang
 - Frameworks & Tools: Linux, PyTorch, Ceph, Triton
 - Interests: Badminton, Basketball, Table Tennis, Swimming
-
-Selected Publications
-======
-- [1] **<u>Lin Wang</u>**, Yuchong Hu, Shilong Mao, Mingqi Li, Ziling Duan, Yue Huang, Leihua Qin, Dan Feng, Zehui Chen, Ruliang Dong. "Revisiting Fragmentation for Deduplication in Clustered Primary Storage Systems". International Conference on Cluster Computing (CLUSTER), 2025, Edinburgh, UK.
-- [2] **<u>Lin Wang</u>**, Yuchong Hu, Yuxue Liu, Renzhi Xiao, Dan Feng. "Asymmetric Coded Distributed Computation on Resilient Prediction Serving Systems", European Conference on Parallel Compuing (Euro-Par), 2024, Madrid, Spain.
-- [3] **<u>Lin Wang</u>**, Yuchong Hu, Qian Du, Dan Feng, Ray Wu, Ingo He, Kevin Zhang. "Exploiting Parallelism of Disk Failure Recovery via Partial Stripe Repair for an Erasure-Coded High-Density Storage Server", International Conference on Parallel Processing (ICPP), 2022, Online.
