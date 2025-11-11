@@ -7,6 +7,6 @@ excerpt: '**<u>Lin Wang</u>**, Yuchong Hu, Shilong Mao, Mingqi Li, Ziling Duan, 
 date: 2025-09-02
 venue: 'International Conference on Cluster Computing (CLUSTER 2025)'
 
-paperurl: #
+paperurl: 'http://wl83.github.io/files/2025-CLUSTER-ReoDedup.pdf'
 ---
 
