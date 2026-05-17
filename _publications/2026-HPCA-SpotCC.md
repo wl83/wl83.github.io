@@ -6,7 +6,7 @@ excerpt: '**<u>Lin Wang</u>**, Yuchong Hu, Ziling Duan, Mingqi Li, Chenxuan Yao,
 date: 2026-02-02
 venue: '32nd International Symposium on High-Performance Computer Architecture (HPCA 2026)'
 
-# paperurl: 'http://wl83.github.io/files/'
+paperurl: 'http://wl83.github.io/files/2026-HPCA-SpotCC.pdf'
 
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
